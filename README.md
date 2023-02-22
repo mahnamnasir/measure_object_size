@@ -27,7 +27,7 @@ Replace path/to/image.jpg with the path to your image, and 0.6 with the width of
 
 ## Output
 Measure Object Size will display the original image with the measured objects outlined in green. The script will also print the size of each object in the console.
-![do-real-time-object-measurement-project](https://user-images.githubusercontent.com/81076373/220655303-29ef8653-bc1c-483b-9c98-53097c1695e3.jpg)
+![15af532db41325448d4ea17ddada6f740b65c3e9](https://user-images.githubusercontent.com/81076373/220656092-28b71ead-7d37-42a5-80b9-3705d89b3740.jpg)
 
 ## Contributing
 If you find any issues with Measure Object Size or have suggestions for improvements, please feel free to submit a pull request or open an issue on this GitHub repository.
